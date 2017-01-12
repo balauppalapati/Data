@@ -1,0 +1,688 @@
+From_track	To_track	No of Hops
+CS&S_AS	CS&S_CC_InstallBase	3
+CS&S_AS	CS&S_ECMWT	3
+CS&S_AS	CS&S_SW	27
+CS&S_AS	CS&S_TS Other	5
+CS&S_AS	CS&S_TS SSC	334
+CS&S_AS	CS&S_TS TAC	94
+CS&S_AS	CS&S_TS_FS	33
+CS&S_AS	CS&S_WebEx	31
+CS&S_AS	CVC_COVC_OM	87
+CS&S_AS	CVC_COVC_SCM	1
+CS&S_AS	CVC_EDW_PlatformSupport	1
+CS&S_AS	CVC_EDW_Tera Data	22
+CS&S_AS	CVC_FIN_ERP-I2C	1
+CS&S_AS	CVC_FIN_ERP-P2R	4
+CS&S_AS	CVC_FIN_Global-Tax-Customs	1
+CS&S_AS	CVC_FIN_Non-ERP-TGCL	1
+CS&S_AS	CVC_HR IT	10
+CS&S_AS	CVC_Q2O_ProductCommerce_Ord	2
+CS&S_AS	CVC_Q2O_ServiceCommerce_CSCC	2
+CS&S_AS	CVC_Q2O_ServiceCommerce_SSFA	39
+CS&S_AS	non gse	200
+CS&S_AS	Others	1
+CS&S_CC_InstallBase	CS&S_AS	1
+CS&S_CC_InstallBase	CS&S_SW	1
+CS&S_CC_InstallBase	CS&S_TS SSC	18
+CS&S_CC_InstallBase	CS&S_TS_FS	8
+CS&S_CC_InstallBase	CVC_COVC_OM	46
+CS&S_CC_InstallBase	CVC_COVC_SCM	5
+CS&S_CC_InstallBase	CVC_EDW_Tera Data	15
+CS&S_CC_InstallBase	CVC_FIN_ERP-I2C	7
+CS&S_CC_InstallBase	CVC_Q2O_ProductCommerce_Config	1
+CS&S_CC_InstallBase	CVC_Q2O_ProductCommerce_Ord	19
+CS&S_CC_InstallBase	CVC_Q2O_ProductCommerce_Quoting	1
+CS&S_CC_InstallBase	CVC_Q2O_ServiceCommerce_CSCC	55
+CS&S_CC_InstallBase	CVC_Q2O_ServiceCommerce_SSFA	5
+CS&S_CC_InstallBase	non gse	8
+CS&S_ECMWT	CS&S_AS	2
+CS&S_ECMWT	CS&S_SW	2
+CS&S_ECMWT	CS&S_TS SSC	1
+CS&S_ECMWT	CS&S_WebEx	1
+CS&S_ECMWT	CVC_B2B_Commerce	1
+CS&S_ECMWT	CVC_FIN_Non-ERP-TGCL	1
+CS&S_ECMWT	non gse	33
+CS&S_ECMWT	Remedy IT	2
+CS&S_eLearn	CS&S_GTMS_CPE	2
+CS&S_eLearn	CVC_FIN_Non-ERP-TGCL	2
+CS&S_eLearn	non gse	2
+CS&S_GTMS_CPE	CS&S_CC_InstallBase	1
+CS&S_GTMS_CPE	CS&S_eLearn	2
+CS&S_GTMS_CPE	CS&S_GTMS_CRM	19
+CS&S_GTMS_CPE	CS&S_GTMS_SCCC	25
+CS&S_GTMS_CPE	CS&S_GTMS_UCRM	8
+CS&S_GTMS_CPE	CVC_B2B_Commerce	1
+CS&S_GTMS_CPE	CVC_COVC_OM	3
+CS&S_GTMS_CPE	CVC_COVC_OM_Pricing	1
+CS&S_GTMS_CPE	CVC_COVC_SCM	1
+CS&S_GTMS_CPE	CVC_EDW_CustomerRegistry	17
+CS&S_GTMS_CPE	CVC_EDW_PlatformSupport	8
+CS&S_GTMS_CPE	CVC_EDW_Sales BI	5
+CS&S_GTMS_CPE	CVC_EDW_Tera Data	137
+CS&S_GTMS_CPE	CVC_FIN_ERP-I2C	16
+CS&S_GTMS_CPE	CVC_FIN_Global-Tax-Customs	1
+CS&S_GTMS_CPE	CVC_FIN_Non-ERP-TGCL	1
+CS&S_GTMS_CPE	CVC_Q2O_ProductCommerce_Config	4
+CS&S_GTMS_CPE	CVC_Q2O_ProductCommerce_Ord	16
+CS&S_GTMS_CPE	CVC_Q2O_ProductCommerce_Pricing	5
+CS&S_GTMS_CPE	CVC_Q2O_ProductCommerce_Quoting	98
+CS&S_GTMS_CPE	CVC_Q2O_ServiceCommerce_CSCC	6
+CS&S_GTMS_CPE	non gse	183
+CS&S_GTMS_CRM	CS&S_GTMS_CPE	40
+CS&S_GTMS_CRM	CS&S_GTMS_SCCC	30
+CS&S_GTMS_CRM	CS&S_MKTG IT	3
+CS&S_GTMS_CRM	CVC_EDW_CustomerRegistry	15
+CS&S_GTMS_CRM	CVC_EDW_PlatformSupport	2
+CS&S_GTMS_CRM	CVC_EDW_Sales BI	5
+CS&S_GTMS_CRM	CVC_EDW_Tera Data	3
+CS&S_GTMS_CRM	CVC_Q2O_ProductCommerce_Ord	1
+CS&S_GTMS_CRM	CVC_Q2O_ProductCommerce_Quoting	31
+CS&S_GTMS_CRM	non gse	234
+CS&S_GTMS_CRM	Remedy IT	2
+CS&S_GTMS_SCCC	CS&S_AS	1
+CS&S_GTMS_SCCC	CS&S_GTMS_CPE	33
+CS&S_GTMS_SCCC	CS&S_GTMS_CRM	8
+CS&S_GTMS_SCCC	CS&S_GTMS_UCRM	1
+CS&S_GTMS_SCCC	CVC_COVC_OM	14
+CS&S_GTMS_SCCC	CVC_COVC_SCM	1
+CS&S_GTMS_SCCC	CVC_EDW_CustomerRegistry	13
+CS&S_GTMS_SCCC	CVC_EDW_PlatformSupport	2
+CS&S_GTMS_SCCC	CVC_EDW_Sales BI	40
+CS&S_GTMS_SCCC	CVC_EDW_Tera Data	40
+CS&S_GTMS_SCCC	CVC_FIN_ERP-I2C	7
+CS&S_GTMS_SCCC	CVC_FIN_Non-ERP-Reporting	1
+CS&S_GTMS_SCCC	CVC_HR IT	6
+CS&S_GTMS_SCCC	CVC_Q2O_ProductCommerce_Config	1
+CS&S_GTMS_SCCC	CVC_Q2O_ProductCommerce_Ord	3
+CS&S_GTMS_SCCC	CVC_Q2O_ProductCommerce_Quoting	72
+CS&S_GTMS_SCCC	non gse	25
+CS&S_GTMS_UCRM	CS&S_GTMS_CPE	8
+CS&S_GTMS_UCRM	CS&S_TS TAC	1
+CS&S_GTMS_UCRM	CVC_EDW_CustomerRegistry	1
+CS&S_GTMS_UCRM	CVC_FIN_ERP-I2C	1
+CS&S_GTMS_UCRM	CVC_OM_WCCS-Pega-Support	3
+CS&S_GTMS_UCRM	CVC_Q2O_ProductCommerce_Ord	2
+CS&S_GTMS_UCRM	CVC_Q2O_ProductCommerce_Quoting	1
+CS&S_GTMS_UCRM	non gse	7
+CS&S_MKTG IT	CS&S_GTMS_CRM	21
+CS&S_MKTG IT	CVC_EDW_PlatformSupport	5
+CS&S_MKTG IT	non gse	6
+CS&S_SW	CS&S_AS	1
+CS&S_SW	CS&S_CC_InstallBase	1
+CS&S_SW	CS&S_ECMWT	4
+CS&S_SW	CS&S_TS Other	3
+CS&S_SW	CS&S_TS SSC	21
+CS&S_SW	CS&S_TS_FS	16
+CS&S_SW	CVC_B2B_Commerce	2
+CS&S_SW	CVC_COVC_OM	142
+CS&S_SW	CVC_COVC_SCM	4
+CS&S_SW	CVC_EDW_CustomerRegistry	6
+CS&S_SW	CVC_EDW_ITEMHUB	8
+CS&S_SW	CVC_Q2O_ProductCommerce_Ord	12
+CS&S_SW	non gse	10
+CS&S_SW	Remedy IT	1
+CS&S_TS Other	CS&S_AS	1
+CS&S_TS Other	CS&S_ECMWT	3
+CS&S_TS Other	CS&S_SW	11
+CS&S_TS Other	CS&S_TS SSC	1
+CS&S_TS Other	CS&S_TS TAC	1
+CS&S_TS Other	CS&S_TS_FS	31
+CS&S_TS Other	CVC_EDW_CustomerRegistry	1
+CS&S_TS Other	CVC_FIN_ERP-I2C	1
+CS&S_TS Other	CVC_Q2O_ServiceCommerce_SSFA	1
+CS&S_TS Other	non gse	4
+CS&S_TS SSC	CS&S_AS	12
+CS&S_TS SSC	CS&S_CC_InstallBase	8
+CS&S_TS SSC	CS&S_GTMS_SCCC	7
+CS&S_TS SSC	CS&S_TS TAC	15
+CS&S_TS SSC	CS&S_TS_FS	40
+CS&S_TS SSC	CVC_B2B_Commerce	1
+CS&S_TS SSC	CVC_COVC_OM	152
+CS&S_TS SSC	CVC_COVC_SCM	117
+CS&S_TS SSC	CVC_EDW_CustomerRegistry	1
+CS&S_TS SSC	CVC_EDW_ITEMHUB	2
+CS&S_TS SSC	CVC_EDW_Sales BI	1
+CS&S_TS SSC	CVC_FIN_ERP-P2R	3
+CS&S_TS SSC	CVC_Q2O_ProductCommerce_Ord	18
+CS&S_TS SSC	CVC_Q2O_ServiceCommerce_CSCC	3
+CS&S_TS SSC	CVC_Q2O_ServiceCommerce_SSFA	2
+CS&S_TS SSC	non gse	31
+CS&S_TS SSC	Others	1
+CS&S_TS TAC	CS&S_AS	14
+CS&S_TS TAC	CS&S_GTMS_UCRM	4
+CS&S_TS TAC	CS&S_TS SSC	15
+CS&S_TS TAC	CS&S_TS_FS	75
+CS&S_TS TAC	CS&S_WebEx	5
+CS&S_TS TAC	CVC_COVC_SCM	1
+CS&S_TS TAC	CVC_HR IT	3
+CS&S_TS TAC	CVC_Q2O_ServiceCommerce_CSCC	1
+CS&S_TS TAC	non gse	70
+CS&S_TS TAC	Remedy IT	2
+CS&S_TS_FS	CS&S_AS	2
+CS&S_TS_FS	CS&S_CC_InstallBase	19
+CS&S_TS_FS	CS&S_SW	4
+CS&S_TS_FS	CS&S_TS Other	5
+CS&S_TS_FS	CS&S_TS SSC	68
+CS&S_TS_FS	CS&S_TS TAC	24
+CS&S_TS_FS	CVC_COVC_OM	21
+CS&S_TS_FS	CVC_EDW_CustomerRegistry	3
+CS&S_TS_FS	CVC_FIN_ERP-I2C	1
+CS&S_TS_FS	CVC_FIN_ERP-P2R	1
+CS&S_TS_FS	CVC_HR IT	1
+CS&S_TS_FS	CVC_OM_WCCS-Pega-Support	1
+CS&S_TS_FS	CVC_Q2O_ProductCommerce_Config	1
+CS&S_TS_FS	CVC_Q2O_ServiceCommerce_CSCC	27
+CS&S_TS_FS	non gse	50
+CS&S_WebEx	CS&S_AS	27
+CS&S_WebEx	CS&S_CC_InstallBase	2
+CS&S_WebEx	CS&S_ECMWT	2
+CS&S_WebEx	CS&S_TS TAC	6
+CS&S_WebEx	CVC_COVC_OM	6
+CS&S_WebEx	CVC_EDW_ITEMHUB	1
+CS&S_WebEx	CVC_EDW_Tera Data	1
+CS&S_WebEx	CVC_FIN_ERP-I2C	14
+CS&S_WebEx	CVC_FIN_Global-Tax-Customs	8
+CS&S_WebEx	CVC_Q2O_ProductCommerce_Config	6
+CS&S_WebEx	CVC_Q2O_ProductCommerce_Ord	22
+CS&S_WebEx	CVC_Q2O_ProductCommerce_Pricing	6
+CS&S_WebEx	CVC_Q2O_ProductCommerce_Quoting	20
+CS&S_WebEx	non gse	396
+CS&S_WebEx	Others	1
+CVC_B2B_Commerce	CS&S_ECMWT	2
+CVC_B2B_Commerce	CS&S_GTMS_CPE	1
+CVC_B2B_Commerce	CS&S_GTMS_CRM	2
+CVC_B2B_Commerce	CS&S_SW	2
+CVC_B2B_Commerce	CS&S_TS SSC	2
+CVC_B2B_Commerce	CS&S_TS TAC	2
+CVC_B2B_Commerce	CVC_B2B_EDI	46
+CVC_B2B_Commerce	CVC_COVC_OM	27
+CVC_B2B_Commerce	CVC_COVC_OM_Pricing	27
+CVC_B2B_Commerce	CVC_COVC_SCM	1
+CVC_B2B_Commerce	CVC_EDW_ITEMHUB	7
+CVC_B2B_Commerce	CVC_EDW_Tera Data	1
+CVC_B2B_Commerce	CVC_FIN_ERP-I2C	12
+CVC_B2B_Commerce	CVC_FIN_Global-Tax-Customs	1
+CVC_B2B_Commerce	CVC_Q2O_ProductCommerce_Config	12
+CVC_B2B_Commerce	CVC_Q2O_ProductCommerce_Ord	130
+CVC_B2B_Commerce	CVC_Q2O_ProductCommerce_Pricing	1
+CVC_B2B_Commerce	CVC_Q2O_ProductCommerce_Quoting	39
+CVC_B2B_Commerce	CVC_Q2O_ServiceCommerce_CSCC	13
+CVC_B2B_Commerce	Non-IT_OpportunityGateway	17
+CVC_B2B_Commerce	non gse	12
+CVC_B2B_Commerce	Remedy IT	1
+CVC_B2B_EDI	CVC_B2B_Commerce	15
+CVC_B2B_EDI	CVC_B2B_Manufacturing	35
+CVC_B2B_EDI	CVC_COVC_SCM	13
+CVC_B2B_EDI	CVC_FIN_ERP-I2C	7
+CVC_B2B_EDI	CVC_FIN_ERP-P2R	1
+CVC_B2B_EDI	CVC_Q2O_ProductCommerce_Quoting	1
+CVC_B2B_EDI	Remedy IT	3
+CVC_B2B_Manufacturing	CVC_B2B_EDI	26
+CVC_B2B_Manufacturing	CVC_COVC_OM	1
+CVC_B2B_Manufacturing	CVC_COVC_SCM	82
+CVC_B2B_Manufacturing	non gse	1
+CVC_COVC_OM	CS&S_AS	43
+CVC_COVC_OM	CS&S_CC_InstallBase	56
+CVC_COVC_OM	CS&S_ECMWT	1
+CVC_COVC_OM	CS&S_GTMS_CPE	1
+CVC_COVC_OM	CS&S_GTMS_SCCC	10
+CVC_COVC_OM	CS&S_GTMS_UCRM	2
+CVC_COVC_OM	CS&S_SW	122
+CVC_COVC_OM	CS&S_TS SSC	138
+CVC_COVC_OM	CS&S_TS_FS	9
+CVC_COVC_OM	CS&S_WebEx	12
+CVC_COVC_OM	CVC_B2B_Commerce	28
+CVC_COVC_OM	CVC_COVC_OM_Pricing	156
+CVC_COVC_OM	CVC_COVC_SCM	1294
+CVC_COVC_OM	CVC_EDW_CustomerRegistry	12
+CVC_COVC_OM	CVC_EDW_ITEMHUB	14
+CVC_COVC_OM	CVC_EDW_Sales BI	8
+CVC_COVC_OM	CVC_EDW_Tera Data	14
+CVC_COVC_OM	CVC_FIN_ERP-I2C	232
+CVC_COVC_OM	CVC_FIN_ERP-P2R	6
+CVC_COVC_OM	CVC_FIN_Global-Tax-Customs	13
+CVC_COVC_OM	CVC_FIN_Non-ERP-TGCL	1
+CVC_COVC_OM	CVC_HR IT	2
+CVC_COVC_OM	CVC_OM_WCCS-Pega-Support	5
+CVC_COVC_OM	CVC_Q2O_ProductCommerce_Config	355
+CVC_COVC_OM	CVC_Q2O_ProductCommerce_Ord	404
+CVC_COVC_OM	CVC_Q2O_ProductCommerce_Pricing	3
+CVC_COVC_OM	CVC_Q2O_ProductCommerce_Quoting	43
+CVC_COVC_OM	CVC_Q2O_ServiceCommerce_CSCC	150
+CVC_COVC_OM	CVC_Q2O_ServiceCommerce_SSFA	1
+CVC_COVC_OM	non gse	76
+CVC_COVC_OM_Pricing	CS&S_ECMWT	2
+CVC_COVC_OM_Pricing	CS&S_GTMS_CPE	1
+CVC_COVC_OM_Pricing	CS&S_GTMS_SCCC	1
+CVC_COVC_OM_Pricing	CS&S_TS SSC	1
+CVC_COVC_OM_Pricing	CS&S_WebEx	21
+CVC_COVC_OM_Pricing	CVC_B2B_Commerce	21
+CVC_COVC_OM_Pricing	CVC_COVC_OM	25
+CVC_COVC_OM_Pricing	CVC_COVC_SCM	1
+CVC_COVC_OM_Pricing	CVC_EDW_ITEMHUB	45
+CVC_COVC_OM_Pricing	CVC_EDW_Tera Data	1
+CVC_COVC_OM_Pricing	CVC_FIN_ERP-P2R	1
+CVC_COVC_OM_Pricing	CVC_FIN_Global-Tax-Customs	1
+CVC_COVC_OM_Pricing	CVC_Q2O_ProductCommerce_Config	34
+CVC_COVC_OM_Pricing	CVC_Q2O_ProductCommerce_Ord	23
+CVC_COVC_OM_Pricing	CVC_Q2O_ProductCommerce_Pricing	34
+CVC_COVC_OM_Pricing	CVC_Q2O_ProductCommerce_Quoting	28
+CVC_COVC_OM_Pricing	CVC_Q2O_ServiceCommerce_CSCC	1
+CVC_COVC_OM_Pricing	CVC_Q2O_ServiceCommerce_SSFA	9
+CVC_COVC_OM_Pricing	non gse	11
+CVC_COVC_PLM	CS&S_ECMWT	1
+CVC_COVC_PLM	CS&S_TS SSC	2
+CVC_COVC_PLM	CVC_COVC_OM	3
+CVC_COVC_PLM	CVC_COVC_SCM	5
+CVC_COVC_PLM	CVC_EDW_ClickStream	2
+CVC_COVC_PLM	CVC_EDW_ITEMHUB	1
+CVC_COVC_PLM	CVC_EDW_PlatformSupport	4
+CVC_COVC_PLM	CVC_EDW_Tera Data	5
+CVC_COVC_PLM	CVC_FIN_ERP-P2R	2
+CVC_COVC_PLM	CVC_FIN_Non-ERP-TGCL	1
+CVC_COVC_PLM	CVC_Q2O_ProductCommerce_Config	1
+CVC_COVC_PLM	non gse	24
+CVC_COVC_PLM	Remedy IT	2
+CVC_COVC_SCM	CS&S_AS	1
+CVC_COVC_SCM	CS&S_CC_InstallBase	3
+CVC_COVC_SCM	CS&S_GTMS_CPE	1
+CVC_COVC_SCM	CS&S_GTMS_CRM	1
+CVC_COVC_SCM	CS&S_SW	3
+CVC_COVC_SCM	CS&S_TS SSC	64
+CVC_COVC_SCM	CS&S_TS_FS	2
+CVC_COVC_SCM	CVC_B2B_Commerce	1
+CVC_COVC_SCM	CVC_B2B_Manufacturing	25
+CVC_COVC_SCM	CVC_COVC_OM	626
+CVC_COVC_SCM	CVC_COVC_PLM	4
+CVC_COVC_SCM	CVC_EDW_ClickStream	18
+CVC_COVC_SCM	CVC_EDW_ITEMHUB	1
+CVC_COVC_SCM	CVC_EDW_PlatformSupport	11
+CVC_COVC_SCM	CVC_EDW_Tera Data	17
+CVC_COVC_SCM	CVC_FIN_ERP-I2C	4
+CVC_COVC_SCM	CVC_FIN_ERP-P2R	42
+CVC_COVC_SCM	CVC_OM_WCCS-Pega-Support	23
+CVC_COVC_SCM	CVC_Q2O_ProductCommerce_Config	21
+CVC_COVC_SCM	CVC_Q2O_ProductCommerce_Ord	22
+CVC_COVC_SCM	CVC_Q2O_ProductCommerce_Quoting	1
+CVC_COVC_SCM	CVC_Q2O_ServiceCommerce_CSCC	21
+CVC_COVC_SCM	non gse	76
+CVC_COVC_SCM	Remedy IT	6
+CVC_EDW_ClickStream	CS&S_SW	4
+CVC_EDW_ClickStream	CVC_EDW_PlatformSupport	5
+CVC_EDW_ClickStream	CVC_EDW_Tera Data	33
+CVC_EDW_ClickStream	non gse	13
+CVC_EDW_ClickStream	Remedy IT	2
+CVC_EDW_CustomerRegistry	CS&S_GTMS_CPE	42
+CVC_EDW_CustomerRegistry	CS&S_GTMS_CRM	16
+CVC_EDW_CustomerRegistry	CS&S_GTMS_SCCC	8
+CVC_EDW_CustomerRegistry	CS&S_GTMS_UCRM	1
+CVC_EDW_CustomerRegistry	CS&S_SW	3
+CVC_EDW_CustomerRegistry	CS&S_TS SSC	1
+CVC_EDW_CustomerRegistry	CS&S_TS_FS	1
+CVC_EDW_CustomerRegistry	CVC_COVC_OM	14
+CVC_EDW_CustomerRegistry	CVC_COVC_OM_Pricing	1
+CVC_EDW_CustomerRegistry	CVC_EDW_HMP	2
+CVC_EDW_CustomerRegistry	CVC_EDW_Tera Data	17
+CVC_EDW_CustomerRegistry	CVC_FIN_Non-ERP-TGCL	2
+CVC_EDW_CustomerRegistry	CVC_Q2O_ProductCommerce_Config	5
+CVC_EDW_CustomerRegistry	CVC_Q2O_ProductCommerce_Ord	7
+CVC_EDW_CustomerRegistry	CVC_Q2O_ProductCommerce_Pricing	5
+CVC_EDW_CustomerRegistry	CVC_Q2O_ProductCommerce_Quoting	23
+CVC_EDW_CustomerRegistry	CVC_Q2O_ServiceCommerce_CSCC	3
+CVC_EDW_CustomerRegistry	non gse	87
+CVC_EDW_HMP	CS&S_GTMS_SCCC	1
+CVC_EDW_HMP	CVC_EDW_CustomerRegistry	2
+CVC_EDW_HMP	CVC_EDW_Tera Data	18
+CVC_EDW_HMP	non gse	8
+CVC_EDW_ITEMHUB	CS&S_CC_InstallBase	1
+CVC_EDW_ITEMHUB	CS&S_SW	3
+CVC_EDW_ITEMHUB	CS&S_TS SSC	1
+CVC_EDW_ITEMHUB	CVC_B2B_Commerce	5
+CVC_EDW_ITEMHUB	CVC_COVC_OM	8
+CVC_EDW_ITEMHUB	CVC_COVC_OM_Pricing	41
+CVC_EDW_ITEMHUB	CVC_COVC_PLM	2
+CVC_EDW_ITEMHUB	CVC_COVC_SCM	2
+CVC_EDW_ITEMHUB	CVC_EDW_HMP	1
+CVC_EDW_ITEMHUB	CVC_EDW_Tera Data	4
+CVC_EDW_ITEMHUB	CVC_FIN_ERP-I2C	1
+CVC_EDW_ITEMHUB	CVC_Q2O_ProductCommerce_Config	6
+CVC_EDW_ITEMHUB	CVC_Q2O_ProductCommerce_Ord	4
+CVC_EDW_ITEMHUB	CVC_Q2O_ProductCommerce_Pricing	2
+CVC_EDW_ITEMHUB	CVC_Q2O_ProductCommerce_Quoting	8
+CVC_EDW_ITEMHUB	CVC_Q2O_ServiceCommerce_SSFA	2
+CVC_EDW_ITEMHUB	non gse	4
+CVC_EDW_ITEMHUB	Remedy IT	1
+CVC_EDW_PlatformSupport	CS&S_AS	2
+CVC_EDW_PlatformSupport	CS&S_GTMS_SCCC	1
+CVC_EDW_PlatformSupport	CVC_COVC_SCM	2
+CVC_EDW_PlatformSupport	CVC_EDW_ClickStream	5
+CVC_EDW_PlatformSupport	CVC_EDW_Sales BI	2
+CVC_EDW_PlatformSupport	CVC_EDW_Tera Data	18
+CVC_EDW_PlatformSupport	CVC_FIN_Global-Tax-Customs	1
+CVC_EDW_PlatformSupport	CVC_FIN_Non-ERP-TGCL	5
+CVC_EDW_PlatformSupport	CVC_Q2O_ProductCommerce_Quoting	1
+CVC_EDW_PlatformSupport	non gse	12
+CVC_EDW_PlatformSupport	Remedy IT	3
+CVC_EDW_Sales BI	CS&S_GTMS_CPE	8
+CVC_EDW_Sales BI	CS&S_GTMS_CRM	11
+CVC_EDW_Sales BI	CS&S_GTMS_SCCC	43
+CVC_EDW_Sales BI	CVC_COVC_OM	5
+CVC_EDW_Sales BI	CVC_EDW_Tera Data	105
+CVC_EDW_Sales BI	CVC_FIN_ERP-I2C	6
+CVC_EDW_Sales BI	CVC_FIN_Non-ERP-TGCL	2
+CVC_EDW_Sales BI	CVC_Q2O_ProductCommerce_Ord	1
+CVC_EDW_Sales BI	non gse	30
+CVC_EDW_Tera Data	CS&S_AS	28
+CVC_EDW_Tera Data	CS&S_CC_InstallBase	22
+CVC_EDW_Tera Data	CS&S_GTMS_CPE	113
+CVC_EDW_Tera Data	CS&S_GTMS_CRM	5
+CVC_EDW_Tera Data	CS&S_GTMS_SCCC	40
+CVC_EDW_Tera Data	CS&S_GTMS_UCRM	1
+CVC_EDW_Tera Data	CS&S_MKTG IT	2
+CVC_EDW_Tera Data	CS&S_TS TAC	1
+CVC_EDW_Tera Data	CS&S_WebEx	1
+CVC_EDW_Tera Data	CVC_COVC_OM	25
+CVC_EDW_Tera Data	CVC_COVC_OM_Pricing	1
+CVC_EDW_Tera Data	CVC_COVC_SCM	16
+CVC_EDW_Tera Data	CVC_EDW_ClickStream	22
+CVC_EDW_Tera Data	CVC_EDW_CustomerRegistry	32
+CVC_EDW_Tera Data	CVC_EDW_HMP	3
+CVC_EDW_Tera Data	CVC_EDW_ITEMHUB	8
+CVC_EDW_Tera Data	CVC_EDW_PlatformSupport	157
+CVC_EDW_Tera Data	CVC_EDW_Sales BI	29
+CVC_EDW_Tera Data	CVC_FIN_ERP-I2C	29
+CVC_EDW_Tera Data	CVC_FIN_ERP-P2R	5
+CVC_EDW_Tera Data	CVC_FIN_Global-Tax-Customs	1
+CVC_EDW_Tera Data	CVC_FIN_Non-ERP-Reporting	2
+CVC_EDW_Tera Data	CVC_FIN_Non-ERP-TGCL	41
+CVC_EDW_Tera Data	CVC_HR IT	3
+CVC_EDW_Tera Data	CVC_Q2O_ProductCommerce_Ord	8
+CVC_EDW_Tera Data	CVC_Q2O_ProductCommerce_Pricing	1
+CVC_EDW_Tera Data	CVC_Q2O_ProductCommerce_Quoting	4
+CVC_EDW_Tera Data	CVC_Q2O_ServiceCommerce_CSCC	1
+CVC_EDW_Tera Data	CVC_Q2O_ServiceCommerce_SSFA	11
+CVC_EDW_Tera Data	non gse	49
+CVC_EDW_Tera Data	Remedy IT	3
+CVC_FIN_ERP-I2C	CS&S_CC_InstallBase	11
+CVC_FIN_ERP-I2C	CS&S_GTMS_CPE	5
+CVC_FIN_ERP-I2C	CS&S_GTMS_SCCC	4
+CVC_FIN_ERP-I2C	CS&S_GTMS_UCRM	1
+CVC_FIN_ERP-I2C	CS&S_SW	2
+CVC_FIN_ERP-I2C	CS&S_WebEx	14
+CVC_FIN_ERP-I2C	CVC_B2B_Commerce	24
+CVC_FIN_ERP-I2C	CVC_B2B_EDI	5
+CVC_FIN_ERP-I2C	CVC_COVC_OM	182
+CVC_FIN_ERP-I2C	CVC_COVC_SCM	29
+CVC_FIN_ERP-I2C	CVC_EDW_ITEMHUB	11
+CVC_FIN_ERP-I2C	CVC_EDW_PlatformSupport	1
+CVC_FIN_ERP-I2C	CVC_EDW_Sales BI	11
+CVC_FIN_ERP-I2C	CVC_EDW_Tera Data	25
+CVC_FIN_ERP-I2C	CVC_FIN_ERP-P2R	20
+CVC_FIN_ERP-I2C	CVC_FIN_Global-Tax-Customs	35
+CVC_FIN_ERP-I2C	CVC_FIN_Non-ERP-TGCL	4
+CVC_FIN_ERP-I2C	CVC_Q2O_ProductCommerce_Ord	22
+CVC_FIN_ERP-I2C	CVC_Q2O_ProductCommerce_Quoting	3
+CVC_FIN_ERP-I2C	CVC_Q2O_ServiceCommerce_CSCC	7
+CVC_FIN_ERP-I2C	non gse	62
+CVC_FIN_ERP-I2C	Remedy IT	2
+CVC_FIN_ERP-P2R	CS&S_AS	3
+CVC_FIN_ERP-P2R	CS&S_GTMS_SCCC	1
+CVC_FIN_ERP-P2R	CS&S_SW	1
+CVC_FIN_ERP-P2R	CS&S_TS SSC	1
+CVC_FIN_ERP-P2R	CS&S_TS_FS	1
+CVC_FIN_ERP-P2R	CVC_B2B_Commerce	1
+CVC_FIN_ERP-P2R	CVC_B2B_EDI	8
+CVC_FIN_ERP-P2R	CVC_B2B_Manufacturing	1
+CVC_FIN_ERP-P2R	CVC_COVC_OM	13
+CVC_FIN_ERP-P2R	CVC_COVC_OM_Pricing	1
+CVC_FIN_ERP-P2R	CVC_COVC_SCM	48
+CVC_FIN_ERP-P2R	CVC_EDW_Tera Data	1
+CVC_FIN_ERP-P2R	CVC_FIN_ERP-I2C	22
+CVC_FIN_ERP-P2R	CVC_FIN_Global-Tax-Customs	36
+CVC_FIN_ERP-P2R	CVC_FIN_Non-ERP-Reporting	15
+CVC_FIN_ERP-P2R	CVC_FIN_Non-ERP-TGCL	5
+CVC_FIN_ERP-P2R	CVC_HR IT	2
+CVC_FIN_ERP-P2R	CVC_Q2O_ProductCommerce_Ord	9
+CVC_FIN_ERP-P2R	CVC_Q2O_ProductCommerce_Pricing	1
+CVC_FIN_ERP-P2R	CVC_Q2O_ProductCommerce_Quoting	1
+CVC_FIN_ERP-P2R	non gse	89
+CVC_FIN_ERP-P2R	Remedy IT	1
+CVC_FIN_Global-Tax-Customs	CS&S_TS TAC	2
+CVC_FIN_Global-Tax-Customs	CS&S_WebEx	5
+CVC_FIN_Global-Tax-Customs	CVC_B2B_Commerce	1
+CVC_FIN_Global-Tax-Customs	CVC_COVC_OM	4
+CVC_FIN_Global-Tax-Customs	CVC_COVC_SCM	1
+CVC_FIN_Global-Tax-Customs	CVC_EDW_PlatformSupport	2
+CVC_FIN_Global-Tax-Customs	CVC_FIN_ERP-I2C	12
+CVC_FIN_Global-Tax-Customs	CVC_FIN_ERP-P2R	13
+CVC_FIN_Global-Tax-Customs	CVC_FIN_Non-ERP-TGCL	5
+CVC_FIN_Global-Tax-Customs	non gse	7
+CVC_FIN_Non-ERP-Reporting	CS&S_CC_InstallBase	1
+CVC_FIN_Non-ERP-Reporting	CS&S_WebEx	1
+CVC_FIN_Non-ERP-Reporting	CVC_B2B_EDI	2
+CVC_FIN_Non-ERP-Reporting	CVC_EDW_PlatformSupport	8
+CVC_FIN_Non-ERP-Reporting	CVC_EDW_Tera Data	16
+CVC_FIN_Non-ERP-Reporting	CVC_FIN_ERP-P2R	6
+CVC_FIN_Non-ERP-Reporting	CVC_FIN_Non-ERP-TGCL	12
+CVC_FIN_Non-ERP-Reporting	CVC_Q2O_ProductCommerce_Ord	3
+CVC_FIN_Non-ERP-Reporting	CVC_Q2O_ProductCommerce_Quoting	4
+CVC_FIN_Non-ERP-Reporting	non gse	47
+CVC_FIN_Non-ERP-TGCL	CS&S_eLearn	2
+CVC_FIN_Non-ERP-TGCL	CS&S_GTMS_CPE	2
+CVC_FIN_Non-ERP-TGCL	CS&S_SW	1
+CVC_FIN_Non-ERP-TGCL	CS&S_TS SSC	5
+CVC_FIN_Non-ERP-TGCL	CS&S_WebEx	1
+CVC_FIN_Non-ERP-TGCL	CVC_COVC_OM	6
+CVC_FIN_Non-ERP-TGCL	CVC_COVC_PLM	2
+CVC_FIN_Non-ERP-TGCL	CVC_COVC_SCM	2
+CVC_FIN_Non-ERP-TGCL	CVC_EDW_CustomerRegistry	2
+CVC_FIN_Non-ERP-TGCL	CVC_EDW_PlatformSupport	7
+CVC_FIN_Non-ERP-TGCL	CVC_EDW_Sales BI	1
+CVC_FIN_Non-ERP-TGCL	CVC_EDW_Tera Data	67
+CVC_FIN_Non-ERP-TGCL	CVC_FIN_ERP-I2C	7
+CVC_FIN_Non-ERP-TGCL	CVC_FIN_ERP-P2R	4
+CVC_FIN_Non-ERP-TGCL	CVC_FIN_Non-ERP-Reporting	31
+CVC_FIN_Non-ERP-TGCL	CVC_HR IT	47
+CVC_FIN_Non-ERP-TGCL	CVC_Q2O_ProductCommerce_Config	1
+CVC_FIN_Non-ERP-TGCL	CVC_Q2O_ProductCommerce_Ord	1
+CVC_FIN_Non-ERP-TGCL	CVC_Q2O_ProductCommerce_Pricing	1
+CVC_FIN_Non-ERP-TGCL	CVC_Q2O_ServiceCommerce_CSCC	1
+CVC_FIN_Non-ERP-TGCL	non gse	38
+CVC_HR IT	CS&S_AS	8
+CVC_HR IT	CS&S_ECMWT	1
+CVC_HR IT	CS&S_eLearn	4
+CVC_HR IT	CS&S_GTMS_SCCC	3
+CVC_HR IT	CVC_COVC_OM	1
+CVC_HR IT	CVC_FIN_ERP-P2R	1
+CVC_HR IT	CVC_FIN_Non-ERP-TGCL	27
+CVC_HR IT	non gse	28
+CVC_OM_WCCS-Pega-Support	CS&S_GTMS_UCRM	10
+CVC_OM_WCCS-Pega-Support	CVC_COVC_OM	5
+CVC_OM_WCCS-Pega-Support	CVC_COVC_SCM	11
+CVC_OM_WCCS-Pega-Support	CVC_Q2O_ProductCommerce_Ord	3
+CVC_OM_WCCS-Pega-Support	CVC_Q2O_ServiceCommerce_CSCC	66
+CVC_Q2O_ProductCommerce_Config	CS&S_CC_InstallBase	2
+CVC_Q2O_ProductCommerce_Config	CS&S_GTMS_CPE	6
+CVC_Q2O_ProductCommerce_Config	CS&S_GTMS_SCCC	1
+CVC_Q2O_ProductCommerce_Config	CS&S_TS SSC	1
+CVC_Q2O_ProductCommerce_Config	CVC_B2B_Commerce	10
+CVC_Q2O_ProductCommerce_Config	CVC_COVC_OM	122
+CVC_Q2O_ProductCommerce_Config	CVC_COVC_OM_Pricing	26
+CVC_Q2O_ProductCommerce_Config	CVC_COVC_PLM	9
+CVC_Q2O_ProductCommerce_Config	CVC_COVC_SCM	8
+CVC_Q2O_ProductCommerce_Config	CVC_EDW_CustomerRegistry	5
+CVC_Q2O_ProductCommerce_Config	CVC_EDW_ITEMHUB	7
+CVC_Q2O_ProductCommerce_Config	CVC_FIN_ERP-I2C	4
+CVC_Q2O_ProductCommerce_Config	CVC_Q2O_ProductCommerce_Ord	319
+CVC_Q2O_ProductCommerce_Config	CVC_Q2O_ProductCommerce_Pricing	24
+CVC_Q2O_ProductCommerce_Config	CVC_Q2O_ProductCommerce_Quoting	185
+CVC_Q2O_ProductCommerce_Config	CVC_Q2O_ServiceCommerce_CSCC	6
+CVC_Q2O_ProductCommerce_Config	CVC_Q2O_ServiceCommerce_SSFA	109
+CVC_Q2O_ProductCommerce_Config	non gse	46
+CVC_Q2O_ProductCommerce_Config	Remedy IT	2
+CVC_Q2O_ProductCommerce_Ord	CS&S_AS	3
+CVC_Q2O_ProductCommerce_Ord	CS&S_CC_InstallBase	30
+CVC_Q2O_ProductCommerce_Ord	CS&S_GTMS_CPE	21
+CVC_Q2O_ProductCommerce_Ord	CS&S_GTMS_CRM	1
+CVC_Q2O_ProductCommerce_Ord	CS&S_GTMS_SCCC	3
+CVC_Q2O_ProductCommerce_Ord	CS&S_GTMS_UCRM	3
+CVC_Q2O_ProductCommerce_Ord	CS&S_SW	6
+CVC_Q2O_ProductCommerce_Ord	CS&S_TS SSC	2
+CVC_Q2O_ProductCommerce_Ord	CS&S_TS TAC	1
+CVC_Q2O_ProductCommerce_Ord	CS&S_WebEx	33
+CVC_Q2O_ProductCommerce_Ord	CVC_B2B_Commerce	36
+CVC_Q2O_ProductCommerce_Ord	CVC_COVC_OM	189
+CVC_Q2O_ProductCommerce_Ord	CVC_COVC_OM_Pricing	31
+CVC_Q2O_ProductCommerce_Ord	CVC_COVC_SCM	46
+CVC_Q2O_ProductCommerce_Ord	CVC_EDW_CustomerRegistry	19
+CVC_Q2O_ProductCommerce_Ord	CVC_EDW_ITEMHUB	5
+CVC_Q2O_ProductCommerce_Ord	CVC_EDW_Sales BI	1
+CVC_Q2O_ProductCommerce_Ord	CVC_EDW_Tera Data	3
+CVC_Q2O_ProductCommerce_Ord	CVC_FIN_ERP-I2C	28
+CVC_Q2O_ProductCommerce_Ord	CVC_FIN_ERP-P2R	12
+CVC_Q2O_ProductCommerce_Ord	CVC_FIN_Global-Tax-Customs	4
+CVC_Q2O_ProductCommerce_Ord	CVC_FIN_Non-ERP-Reporting	1
+CVC_Q2O_ProductCommerce_Ord	CVC_FIN_Non-ERP-TGCL	3
+CVC_Q2O_ProductCommerce_Ord	CVC_Q2O_ProductCommerce_Config	218
+CVC_Q2O_ProductCommerce_Ord	CVC_Q2O_ProductCommerce_Pricing	81
+CVC_Q2O_ProductCommerce_Ord	CVC_Q2O_ProductCommerce_Quoting	163
+CVC_Q2O_ProductCommerce_Ord	CVC_Q2O_ServiceCommerce_CSCC	48
+CVC_Q2O_ProductCommerce_Ord	CVC_Q2O_ServiceCommerce_SSFA	1
+CVC_Q2O_ProductCommerce_Ord	non gse	34
+CVC_Q2O_ProductCommerce_Pricing	CS&S_GTMS_CPE	5
+CVC_Q2O_ProductCommerce_Pricing	CS&S_WebEx	3
+CVC_Q2O_ProductCommerce_Pricing	CVC_B2B_Commerce	3
+CVC_Q2O_ProductCommerce_Pricing	CVC_COVC_OM	8
+CVC_Q2O_ProductCommerce_Pricing	CVC_COVC_OM_Pricing	33
+CVC_Q2O_ProductCommerce_Pricing	CVC_EDW_CustomerRegistry	7
+CVC_Q2O_ProductCommerce_Pricing	CVC_EDW_ITEMHUB	4
+CVC_Q2O_ProductCommerce_Pricing	CVC_EDW_Tera Data	1
+CVC_Q2O_ProductCommerce_Pricing	CVC_FIN_Non-ERP-TGCL	1
+CVC_Q2O_ProductCommerce_Pricing	CVC_Q2O_ProductCommerce_Config	9
+CVC_Q2O_ProductCommerce_Pricing	CVC_Q2O_ProductCommerce_Ord	19
+CVC_Q2O_ProductCommerce_Pricing	CVC_Q2O_ProductCommerce_Quoting	50
+CVC_Q2O_ProductCommerce_Pricing	CVC_Q2O_ServiceCommerce_CSCC	110
+CVC_Q2O_ProductCommerce_Pricing	CVC_Q2O_ServiceCommerce_SSFA	1
+CVC_Q2O_ProductCommerce_Pricing	non gse	7
+CVC_Q2O_ProductCommerce_Quoting	CS&S_AS	1
+CVC_Q2O_ProductCommerce_Quoting	CS&S_CC_InstallBase	6
+CVC_Q2O_ProductCommerce_Quoting	CS&S_GTMS_CPE	80
+CVC_Q2O_ProductCommerce_Quoting	CS&S_GTMS_CRM	46
+CVC_Q2O_ProductCommerce_Quoting	CS&S_GTMS_SCCC	72
+CVC_Q2O_ProductCommerce_Quoting	CS&S_GTMS_UCRM	3
+CVC_Q2O_ProductCommerce_Quoting	CS&S_TS SSC	1
+CVC_Q2O_ProductCommerce_Quoting	CS&S_WebEx	9
+CVC_Q2O_ProductCommerce_Quoting	CVC_B2B_Commerce	23
+CVC_Q2O_ProductCommerce_Quoting	CVC_COVC_OM	56
+CVC_Q2O_ProductCommerce_Quoting	CVC_COVC_OM_Pricing	65
+CVC_Q2O_ProductCommerce_Quoting	CVC_COVC_SCM	12
+CVC_Q2O_ProductCommerce_Quoting	CVC_EDW_CustomerRegistry	66
+CVC_Q2O_ProductCommerce_Quoting	CVC_EDW_ITEMHUB	9
+CVC_Q2O_ProductCommerce_Quoting	CVC_EDW_Sales BI	1
+CVC_Q2O_ProductCommerce_Quoting	CVC_EDW_Tera Data	1
+CVC_Q2O_ProductCommerce_Quoting	CVC_FIN_ERP-I2C	16
+CVC_Q2O_ProductCommerce_Quoting	CVC_FIN_ERP-P2R	1
+CVC_Q2O_ProductCommerce_Quoting	CVC_FIN_Non-ERP-Reporting	1
+CVC_Q2O_ProductCommerce_Quoting	CVC_Q2O_ProductCommerce_Config	270
+CVC_Q2O_ProductCommerce_Quoting	CVC_Q2O_ProductCommerce_Ord	692
+CVC_Q2O_ProductCommerce_Quoting	CVC_Q2O_ProductCommerce_Pricing	309
+CVC_Q2O_ProductCommerce_Quoting	CVC_Q2O_ServiceCommerce_CSCC	22
+CVC_Q2O_ProductCommerce_Quoting	CVC_Q2O_ServiceCommerce_SSFA	4
+CVC_Q2O_ProductCommerce_Quoting	non gse	53
+CVC_Q2O_ProductCommerce_Quoting	Remedy IT	1
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_AS	1
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_CC_InstallBase	370
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_GTMS_CPE	2
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_GTMS_SCCC	1
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_SW	1
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_TS SSC	3
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_TS TAC	1
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_TS_FS	47
+CVC_Q2O_ServiceCommerce_CSCC	CS&S_WebEx	1
+CVC_Q2O_ServiceCommerce_CSCC	CVC_B2B_Commerce	4
+CVC_Q2O_ServiceCommerce_CSCC	CVC_COVC_OM	219
+CVC_Q2O_ServiceCommerce_CSCC	CVC_COVC_SCM	26
+CVC_Q2O_ServiceCommerce_CSCC	CVC_EDW_CustomerRegistry	5
+CVC_Q2O_ServiceCommerce_CSCC	CVC_EDW_ITEMHUB	1
+CVC_Q2O_ServiceCommerce_CSCC	CVC_EDW_Tera Data	1
+CVC_Q2O_ServiceCommerce_CSCC	CVC_FIN_ERP-I2C	3
+CVC_Q2O_ServiceCommerce_CSCC	CVC_FIN_Non-ERP-TGCL	2
+CVC_Q2O_ServiceCommerce_CSCC	CVC_HR IT	2
+CVC_Q2O_ServiceCommerce_CSCC	CVC_OM_WCCS-Pega-Support	10
+CVC_Q2O_ServiceCommerce_CSCC	CVC_Q2O_ProductCommerce_Config	28
+CVC_Q2O_ServiceCommerce_CSCC	CVC_Q2O_ProductCommerce_Ord	59
+CVC_Q2O_ServiceCommerce_CSCC	CVC_Q2O_ProductCommerce_Pricing	174
+CVC_Q2O_ServiceCommerce_CSCC	CVC_Q2O_ProductCommerce_Quoting	55
+CVC_Q2O_ServiceCommerce_CSCC	CVC_Q2O_ServiceCommerce_SSFA	46
+CVC_Q2O_ServiceCommerce_CSCC	non gse	247
+CVC_Q2O_ServiceCommerce_SSFA	CS&S_AS	33
+CVC_Q2O_ServiceCommerce_SSFA	CS&S_CC_InstallBase	5
+CVC_Q2O_ServiceCommerce_SSFA	CS&S_GTMS_SCCC	2
+CVC_Q2O_ServiceCommerce_SSFA	CS&S_TS SSC	1
+CVC_Q2O_ServiceCommerce_SSFA	CVC_COVC_OM	3
+CVC_Q2O_ServiceCommerce_SSFA	CVC_COVC_OM_Pricing	32
+CVC_Q2O_ServiceCommerce_SSFA	CVC_EDW_ITEMHUB	1
+CVC_Q2O_ServiceCommerce_SSFA	CVC_EDW_Tera Data	13
+CVC_Q2O_ServiceCommerce_SSFA	CVC_FIN_ERP-I2C	1
+CVC_Q2O_ServiceCommerce_SSFA	CVC_FIN_Non-ERP-TGCL	1
+CVC_Q2O_ServiceCommerce_SSFA	CVC_Q2O_ProductCommerce_Config	77
+CVC_Q2O_ServiceCommerce_SSFA	CVC_Q2O_ProductCommerce_Pricing	2
+CVC_Q2O_ServiceCommerce_SSFA	CVC_Q2O_ProductCommerce_Quoting	3
+CVC_Q2O_ServiceCommerce_SSFA	CVC_Q2O_ServiceCommerce_CSCC	7
+CVC_Q2O_ServiceCommerce_SSFA	non gse	17
+non gse	CS&S_AS	666
+non gse	CS&S_CC_InstallBase	55
+non gse	CS&S_ECMWT	138
+non gse	CS&S_eLearn	108
+non gse	CS&S_GTMS_CPE	449
+non gse	CS&S_GTMS_CRM	1285
+non gse	CS&S_GTMS_SCCC	587
+non gse	CS&S_GTMS_UCRM	49
+non gse	CS&S_MKTG IT	37
+non gse	CS&S_SW	52
+non gse	CS&S_TS Other	10
+non gse	CS&S_TS SSC	264
+non gse	CS&S_TS TAC	187
+non gse	CS&S_TS_FS	137
+non gse	CS&S_WebEx	490
+non gse	CVC_B2B_Commerce	23
+non gse	CVC_B2B_EDI	6
+non gse	CVC_COVC_OM	91
+non gse	CVC_COVC_OM_Pricing	25
+non gse	CVC_COVC_PLM	276
+non gse	CVC_COVC_SCM	170
+non gse	CVC_EDW_ClickStream	26
+non gse	CVC_EDW_CustomerRegistry	32
+non gse	CVC_EDW_HMP	14
+non gse	CVC_EDW_ITEMHUB	18
+non gse	CVC_EDW_PlatformSupport	149
+non gse	CVC_EDW_Sales BI	473
+non gse	CVC_EDW_Tera Data	226
+non gse	CVC_FIN_ERP-I2C	85
+non gse	CVC_FIN_ERP-P2R	711
+non gse	CVC_FIN_Global-Tax-Customs	17
+non gse	CVC_FIN_Non-ERP-Reporting	199
+non gse	CVC_FIN_Non-ERP-TGCL	400
+non gse	CVC_HR IT	346
+non gse	CVC_OM_WCCS-Pega-Support	4
+non gse	CVC_Q2O_ProductCommerce_Config	106
+non gse	CVC_Q2O_ProductCommerce_Ord	111
+non gse	CVC_Q2O_ProductCommerce_Pricing	28
+non gse	CVC_Q2O_ProductCommerce_Quoting	1291
+non gse	CVC_Q2O_ServiceCommerce_CSCC	731
+non gse	CVC_Q2O_ServiceCommerce_SSFA	36
+non gse	Others	1
+non gse	Remedy IT	182
+Others	CS&S_TS SSC	1
+Others	CS&S_WebEx	1
+Others	CVC_EDW_PlatformSupport	3
+Others	CVC_EDW_Tera Data	12
+Others	non gse	2
+Remedy IT	CS&S_GTMS_SCCC	1
+Remedy IT	CS&S_TS SSC	1
+Remedy IT	CVC_EDW_ClickStream	2
+Remedy IT	CVC_EDW_PlatformSupport	13
+Remedy IT	CVC_EDW_Tera Data	3
+Remedy IT	CVC_FIN_Non-ERP-TGCL	1
+Remedy IT	CVC_HR IT	1
+Remedy IT	non gse	42
